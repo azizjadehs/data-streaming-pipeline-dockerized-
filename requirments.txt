@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+kafka-python
+pyspark
+psycopg2-binary
+pymongo
+dbt-core
+matplotlib
+pandas
+apache-airflow
