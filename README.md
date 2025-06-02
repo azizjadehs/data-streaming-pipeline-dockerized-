@@ -18,8 +18,8 @@ This project is designed to simulate and process streaming data using modern big
 ## 🔄 Current Progress
 - ✅ Kafka and Spark integrated and running inside Docker
 - ✅ Real-time message simulation (currently using test data)
-- 🛠 In progress: Connecting real Steam reviews to Kafka
-- 🛠 Future plans: Structured processing, storage, API and dashboard development
+- ✅ In progress: Connecting real Steam reviews to Kafka
+- 🛠 Current work: Saving data into Postgresql Data base
 
 ---
 
