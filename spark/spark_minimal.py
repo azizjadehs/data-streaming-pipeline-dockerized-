@@ -1,5 +1,9 @@
 from pyspark.sql import SparkSession
 
+
+#This is only for testing if the jars are correctly loaded
+# and Spark can connect to Kafka.
+
 spark = SparkSession.builder \
     .appName("KafkaSpark") \
     .master("spark://spark:7077") \

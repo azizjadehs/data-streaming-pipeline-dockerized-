@@ -7,6 +7,8 @@ RUN pip install --no-cache-dir kafka-python py4j
 # Install Python and pip
 RUN apt-get update && apt-get install -y curl
 RUN pip install kafka-python
+RUN pip install requests kafka-python
+
 
 
 # Create JARs directory
